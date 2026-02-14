@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-1" value="CIGAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="70" height="30" as="geometry" />
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;CIGAR&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="215" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-3" value="Insertion(I)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="70" height="40" as="geometry" />
