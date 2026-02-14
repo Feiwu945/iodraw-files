@@ -83,10 +83,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-22" value="&lt;b&gt;变异区域&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="780" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-23" value="&lt;b&gt;剪切读段&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
