@@ -37,7 +37,7 @@
         <mxCell id="urOlkm_IIm858qhgcrp8-12" value="Ref" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="190" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="urOlkm_IIm858qhgcrp8-13" value="Ref" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="urOlkm_IIm858qhgcrp8-13" value="Sample" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
