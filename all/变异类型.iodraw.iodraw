@@ -203,7 +203,7 @@
           <mxGeometry x="130" y="490" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="540" width="80" height="20" as="geometry" />
+          <mxGeometry x="360" y="540" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3iSlG8V9_s8RUall5-3v-9" target="3iSlG8V9_s8RUall5-3v-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
