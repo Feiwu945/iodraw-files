@@ -86,7 +86,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CvEQD0VUiYEGpz48Cds6-28" value="SV 左" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="210" width="60" height="20" as="geometry" />
+          <mxGeometry x="380" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CvEQD0VUiYEGpz48Cds6-29" value="SV 左" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
