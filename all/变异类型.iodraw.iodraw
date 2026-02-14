@@ -40,7 +40,7 @@
         <mxCell id="T6WdVQbjNgfTjNhNNliS-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="335" width="85" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-20" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;rotation=0;" vertex="1" parent="1">
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;b&gt;Deletion(D)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
