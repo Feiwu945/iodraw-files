@@ -121,8 +121,8 @@
         <mxCell id="CvEQD0VUiYEGpz48Cds6-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="60" y="530" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CvEQD0VUiYEGpz48Cds6-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;SV 左&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="60" height="20" as="geometry" />
+        <mxCell id="CvEQD0VUiYEGpz48Cds6-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;候选读段&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="530" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
