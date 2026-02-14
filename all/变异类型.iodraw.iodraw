@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Deletion(D)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="280" width="70" height="40" as="geometry" />
+          <mxGeometry x="580" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-7" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="360" width="70" height="40" as="geometry" />
@@ -37,14 +37,14 @@
         <mxCell id="T6WdVQbjNgfTjNhNNliS-13" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Reverse(M-)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;rotation=0;" vertex="1" parent="1">
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Reverse(M-)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="335" width="85" height="25" as="geometry" />
         </mxCell>
         <mxCell id="T6WdVQbjNgfTjNhNNliS-20" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="360" width="70" height="40" as="geometry" />
+          <mxGeometry x="580" y="360" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
