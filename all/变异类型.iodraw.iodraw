@@ -127,8 +127,8 @@
         <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-26" value="&lt;b&gt;完全比对&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VJL9WYcr6tsgW9ZEv0Ro-43">
           <mxGeometry x="430" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-44" value="左剪切" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="78" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
