@@ -32,7 +32,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="urOlkm_IIm858qhgcrp8-11" value="缺失 (DEL)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="140" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
