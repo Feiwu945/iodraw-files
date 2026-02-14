@@ -13,7 +13,7 @@
         <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="220" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-4" value="Ref" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VJL9WYcr6tsgW9ZEv0Ro-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ref&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
