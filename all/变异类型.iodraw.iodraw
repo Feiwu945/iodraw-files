@@ -49,8 +49,11 @@
             <mxPoint x="554.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;fill regions&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;Fill regions&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CIGAR&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="140" y="295" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
