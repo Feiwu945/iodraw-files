@@ -40,6 +40,42 @@
         <mxCell id="urOlkm_IIm858qhgcrp8-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sample&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="240" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="urOlkm_IIm858qhgcrp8-17" target="urOlkm_IIm858qhgcrp8-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="360" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="urOlkm_IIm858qhgcrp8-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="220" as="sourcePoint" />
+            <mxPoint x="340" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;缺失 (DEL)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ref&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="urOlkm_IIm858qhgcrp8-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Sample&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
