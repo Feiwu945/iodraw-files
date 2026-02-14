@@ -1,60 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="0j5YCUNCiv6zZY370hcs">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+  <diagram name="第 1 页" id="H0lCQVgEzfP4sIiz5skQ">
+    <mxGraphModel dx="450" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CIGAR&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="285" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6WdVQbjNgfTjNhNNliS-3" target="T6WdVQbjNgfTjNhNNliS-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Insertion(I)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="280" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6WdVQbjNgfTjNhNNliS-5" target="T6WdVQbjNgfTjNhNNliS-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Deletion(D)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-7" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Reverse(M-)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="232.5" y="335" width="85" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Duplication&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-14" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;b&gt;Insertion(I)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="392.5" y="335" width="85" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;b&gt;Deletion(D)&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="554.5" y="320" as="sourcePoint" />
-            <mxPoint x="554.5" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp;Fill regions&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;RGB&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="365" width="70" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
