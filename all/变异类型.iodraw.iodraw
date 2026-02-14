@@ -100,6 +100,9 @@
         <mxCell id="CvEQD0VUiYEGpz48Cds6-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;SV 左&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="250" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CvEQD0VUiYEGpz48Cds6-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;read 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
