@@ -16,17 +16,14 @@
         <mxCell id="T6WdVQbjNgfTjNhNNliS-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Deletion(D)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-11" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="215" y="315" width="130" height="90" as="geometry" />
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-7" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-7" value="&lt;font color=&quot;#f7faf6&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Match(M)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;rotation=90;" vertex="1" parent="T6WdVQbjNgfTjNhNNliS-11">
-          <mxGeometry x="55" y="55" width="70" height="40" as="geometry" />
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Reverse(M-)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Reverse(M-)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFFF;rotation=90;" vertex="1" parent="T6WdVQbjNgfTjNhNNliS-11">
-          <mxGeometry x="5" y="55" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="T6WdVQbjNgfTjNhNNliS-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="T6WdVQbjNgfTjNhNNliS-11">
-          <mxGeometry x="40" y="-20" width="50" height="60" as="geometry" />
+        <mxCell id="T6WdVQbjNgfTjNhNNliS-10" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=180;" vertex="1" parent="1">
+          <mxGeometry x="255" y="295" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
