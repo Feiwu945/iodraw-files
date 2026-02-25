@@ -223,7 +223,7 @@
             <mxPoint x="760" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-17" value="&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;引言&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;l6TgixfCR8ve1y1TwjXA&quot; style=&quot;font-size: 11px;&quot;&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-17" value="&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;引言&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="scrzZkMOASGQOj-ARCgO-18" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;结构变异检测相关理论基础知识&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;结构变异检测基本流程，基因组数据格式类型，基因组数据操作工具，所用数据集&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -241,7 +241,7 @@
             <mxPoint x="760" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-21" value="&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;基于长读长测序数据的结构变异精准检测深度学习框架&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;KSbULSynvJ6CN3qBKQsS&quot; style=&quot;font-size: 11px;&quot;&gt;候选信号提取与特征矩阵构建、深度学习预测模型设计、断点聚类细化与后处理、多类型结构变异综合检测&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-21" value="&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;基于长读长测序数据的结构变异精准检测深度学习框架&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 11px;&quot;&gt;候选信号提取与特征矩阵构建、深度学习预测模型设计、断点聚类细化与后处理、多类型结构变异综合检测&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="960" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="scrzZkMOASGQOj-ARCgO-22" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 13px;&quot;&gt;基于多通道图像编码技术的基因组结构变异检测方法&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;evICBbzNeyBS1GLOj50O&quot; style=&quot;font-size: 11px;&quot;&gt;比对信息增强型图像化编码策略、集成优化的卷积神经网络构建、多尺度上下文建模与特征融合、变异类型与位置预测识别&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
