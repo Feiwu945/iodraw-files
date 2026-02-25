@@ -223,7 +223,7 @@
             <mxPoint x="760" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-17" value="&lt;b&gt;引言&lt;/b&gt;&lt;div&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;引言&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="scrzZkMOASGQOj-ARCgO-18" value="&lt;div&gt;&lt;b&gt;结构变异检测相关理论基础知识&lt;/b&gt;&lt;/div&gt;&lt;div&gt;结构变异检测基本流程，基因组数据格式类型，基因组数据操作工具，所用数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
