@@ -226,7 +226,7 @@
         <mxCell id="scrzZkMOASGQOj-ARCgO-17" value="引言&lt;div&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="840" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-18" value="&lt;br&gt;&lt;div&gt;结构变异检测相关理论基础知识&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-18" value="&lt;div&gt;结构变异检测相关理论基础知识&lt;/div&gt;&lt;div&gt;结构变异检测基本流程，基因组数据格式类型，基因组数据操作工具，所用数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="900" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="scrzZkMOASGQOj-ARCgO-19" value="" style="endArrow=none;dashed=1;html=1;rounded=1;strokeWidth=1;curved=0;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" edge="1" parent="1">
