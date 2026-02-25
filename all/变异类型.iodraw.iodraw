@@ -241,7 +241,7 @@
             <mxPoint x="760" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-21" value="引言&lt;div&gt;研究背景及意义，结构变异检测及相关技术的国内外研究现状，本文主要研究内容&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-21" value="基于长读长测序数据的结构变异精准检测深度学习框架&lt;div&gt;候选信号提取与特征矩阵构建、深度学习预测模型设计、断点聚类细化与后处理、多类型结构变异综合检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="960" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
