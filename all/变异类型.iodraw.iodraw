@@ -262,7 +262,7 @@
             <mxPoint x="760" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="scrzZkMOASGQOj-ARCgO-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.72;dx=13;" vertex="1" parent="1">
+        <mxCell id="scrzZkMOASGQOj-ARCgO-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.72;dx=13;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="100" y="940" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
