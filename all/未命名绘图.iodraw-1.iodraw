@@ -70,9 +70,6 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="时序与注意力联合建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="396" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="510" width="121" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="433.8" as="sourcePoint" />
@@ -91,14 +88,20 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-58" value="提取不同尺度的局部特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="419" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="550" width="121" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="多头自注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="590" width="121" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-61" value="自适应关键信息聚焦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="438" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="528" y="510" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+          <mxGeometry width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+          <mxGeometry y="40" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="多头自注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+          <mxGeometry y="80" width="121" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
