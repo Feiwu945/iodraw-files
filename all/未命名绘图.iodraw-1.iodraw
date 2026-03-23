@@ -152,7 +152,10 @@
           <mxGeometry x="330" y="624" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-97" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="634" width="20" height="20" as="geometry" />
+          <mxGeometry x="330" y="650" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-98" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;五维覆盖度评估&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="612.5" width="101" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
