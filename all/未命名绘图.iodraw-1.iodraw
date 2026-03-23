@@ -118,8 +118,8 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-73" value="三阶段精确聚类" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;" vertex="1" parent="1">
           <mxGeometry x="169" y="564" width="121" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-75" value="三阶段精确聚类" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;" vertex="1" parent="1">
-          <mxGeometry x="179" y="574" width="121" height="26" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-75" value="多重质量控制" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;" vertex="1" parent="1">
+          <mxGeometry x="340" y="564" width="121" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
