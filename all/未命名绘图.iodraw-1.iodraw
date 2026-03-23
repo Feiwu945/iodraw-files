@@ -274,8 +274,8 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-141" value="实验评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-142" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="762.5" width="200" height="37.5" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-142" value="数据集：GIAB真实样本 (HG002, HG00514等) + SURVIVOR模拟数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="762.5" width="200" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
