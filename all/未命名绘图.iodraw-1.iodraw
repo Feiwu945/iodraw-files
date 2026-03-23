@@ -166,16 +166,16 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-103" value="&lt;font face=&quot;宋体&quot;&gt;目标区域动态提取&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-104" value="RGB图像映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-104" value="&lt;font face=&quot;宋体&quot;&gt;RGB图像映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DhRRv6h3kgcs0FJYBWs-105" target="8DhRRv6h3kgcs0FJYBWs-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-105" value="提取关键特征信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-105" value="&lt;font face=&quot;宋体&quot;&gt;提取关键特征信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="365" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-106" value="动态调整读取区域" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-106" value="&lt;font face=&quot;宋体&quot;&gt;动态调整读取区域&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="403" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-107" value="过滤与修剪读段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
