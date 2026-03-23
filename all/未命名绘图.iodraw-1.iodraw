@@ -116,7 +116,7 @@
           <mxGeometry x="160" y="545" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-68" value="时序与注意力联合建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="140" height="14" as="geometry" />
+          <mxGeometry x="250" y="550" width="140" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
