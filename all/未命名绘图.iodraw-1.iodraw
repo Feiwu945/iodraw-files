@@ -202,7 +202,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-118" value="&lt;font face=&quot;宋体&quot;&gt;归一化处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="441" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-120" value="&lt;font face=&quot;宋体&quot;&gt;生成224*224像素图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-120" value="&lt;font face=&quot;宋体&quot;&gt;生成&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;224*224&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;像素图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="479" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-122" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
@@ -211,7 +211,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-123" value="&lt;font face=&quot;宋体&quot;&gt;卷积主干网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="564" width="110" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;CBAM 注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;CBAM &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="621.5" width="110" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="&lt;font face=&quot;宋体&quot;&gt;空洞空间金字塔池化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
