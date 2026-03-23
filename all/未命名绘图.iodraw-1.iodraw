@@ -169,8 +169,11 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-103" value="目标区域动态提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="295" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-104" value="目标区域动态提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-104" value="RGB图像映射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-105" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="376" width="120" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
