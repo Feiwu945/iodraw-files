@@ -220,6 +220,9 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="空洞空间金字塔池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="601.5" width="110" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-127" value="精确断点聚类与质控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="545" width="140" height="14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
