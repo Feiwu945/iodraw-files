@@ -64,7 +64,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="160" y="397" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="时序与注意力联合建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;时序与注意力联合建模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="400" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -79,10 +79,10 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="166" y="417" width="121" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="&lt;font face=&quot;宋体&quot;&gt;双向长短期记忆网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry y="40" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="多头自注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
