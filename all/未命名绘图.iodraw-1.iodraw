@@ -223,10 +223,10 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-128" value="&lt;font face=&quot;宋体&quot;&gt;特征金字塔网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="650.25" width="110" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-129" value="多尺度上下文捕获" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-129" value="&lt;font face=&quot;宋体&quot;&gt;多尺度上下文捕获&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="684" y="593.25" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-130" value="浅层特征提取与降维" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-130" value="&lt;font face=&quot;宋体&quot;&gt;浅层特征提取与降维&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="564.5" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
