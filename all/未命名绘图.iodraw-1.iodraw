@@ -71,7 +71,7 @@
           <mxGeometry x="250" y="396" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="421" width="121" height="30" as="geometry" />
+          <mxGeometry x="169" y="420" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-32" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="460" width="119" height="30" as="geometry" />
