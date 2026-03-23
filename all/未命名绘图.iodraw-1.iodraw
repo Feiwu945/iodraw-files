@@ -214,14 +214,11 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-123" value="卷积主干网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725" y="550" width="110" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-124" value="空洞空间金字塔池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="770" width="105" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-125" value="CBAM 注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="725.5" y="630" width="110" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="卷积主干网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="560" width="110" height="27" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="空洞空间金字塔池化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="590" width="110" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
