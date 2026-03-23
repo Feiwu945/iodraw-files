@@ -112,10 +112,10 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-68" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;精确断点聚类与质控&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="548" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-73" value="&lt;font face=&quot;宋体&quot;&gt;三阶段精确聚类&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-73" value="&lt;font face=&quot;宋体&quot;&gt;三阶段精确聚类&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="169" y="564" width="121" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-75" value="&lt;font face=&quot;宋体&quot;&gt;多重质量控制&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-75" value="&lt;font face=&quot;宋体&quot;&gt;多重质量控制&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=11;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="340" y="564" width="121" height="26" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-85" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
