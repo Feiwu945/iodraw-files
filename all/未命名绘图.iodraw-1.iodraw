@@ -125,10 +125,13 @@
           <mxGeometry x="160" y="600" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-86" value="快速自适应扫描" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="595" width="101" height="30" as="geometry" />
+          <mxGeometry x="179" y="602.5" width="101" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-87" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="610" width="20" height="20" as="geometry" />
+          <mxGeometry x="160" y="620" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-88" value="快速自适应扫描" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="189" y="612.5" width="101" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
