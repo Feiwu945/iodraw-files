@@ -229,10 +229,10 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-130" value="&lt;font face=&quot;宋体&quot;&gt;浅层特征提取与降维&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="564.5" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;关键特征自适应聚焦&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="623.25" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="跨层级特征融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="&lt;font face=&quot;宋体&quot;&gt;跨层级特征融合&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="678" y="653" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -265,7 +265,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DhRRv6h3kgcs0FJYBWs-139" target="8DhRRv6h3kgcs0FJYBWs-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-139" value="高置信度变异结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-139" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;高置信度变异结果&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="710" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-140" value="实验评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
