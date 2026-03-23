@@ -82,8 +82,8 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-35" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="429" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="419" width="60" height="30" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-36" value="提取不同尺度的局部特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="140" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
