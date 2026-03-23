@@ -233,10 +233,10 @@
           <mxGeometry x="690" y="564.5" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="620.25" width="140" height="14" as="geometry" />
+          <mxGeometry x="690" y="623.25" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="跨层级特征融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="678" y="648" width="140" height="14" as="geometry" />
+          <mxGeometry x="678" y="653" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -252,8 +252,8 @@
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="691" y="630.14" as="sourcePoint" />
-            <mxPoint x="660" y="630.14" as="targetPoint" />
+            <mxPoint x="691" y="631.14" as="sourcePoint" />
+            <mxPoint x="660" y="631.14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
