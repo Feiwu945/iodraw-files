@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-58" value="提取不同尺度的局部特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="419" width="150" height="30" as="geometry" />
+          <mxGeometry x="330" y="419" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
