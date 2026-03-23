@@ -179,13 +179,13 @@
           <mxGeometry x="540" y="398" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-107" value="过滤与修剪读段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="432" width="120" height="24" as="geometry" />
+          <mxGeometry x="540" y="440" width="120" height="24" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-109" value="&lt;div&gt;保留包含这些区域的读取片段进行分析。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="820" y="413" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-110" value="保留候选变异区域进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="466" width="120" height="34" as="geometry" />
+          <mxGeometry x="540" y="480" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
