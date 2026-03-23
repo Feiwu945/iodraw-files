@@ -94,8 +94,11 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="550" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="多头自注意力机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="528" y="590" width="121" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-61" value="自适应关键信息聚焦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="438" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
