@@ -65,7 +65,7 @@
           <mxGeometry x="245" y="320" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="160" y="399" width="320" height="130" as="geometry" />
+          <mxGeometry x="160" y="399" width="320" height="131" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="时序与注意力联合建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="396" width="140" height="30" as="geometry" />
@@ -98,10 +98,10 @@
           <mxGeometry x="330" y="419" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="458" width="121" height="30" as="geometry" />
+          <mxGeometry x="169" y="456" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="499" width="121" height="30" as="geometry" />
+          <mxGeometry x="169" y="497" width="121" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
