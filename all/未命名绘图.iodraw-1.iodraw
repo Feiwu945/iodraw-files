@@ -80,7 +80,7 @@
           <mxGeometry x="340" y="457" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-58" value="局部空间特征提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="419" width="140" height="30" as="geometry" />
+          <mxGeometry x="509.5" y="427" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="166" y="417" width="121" height="110" as="geometry" />
