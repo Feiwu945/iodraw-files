@@ -52,10 +52,10 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-16" value="&lt;font face=&quot;宋体&quot;&gt;解析&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt; CIGAR &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;字符串&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;，&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;提取 &lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;SA &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;标签&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="360" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;构建20通道特征张量，标准化处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-17" value="&lt;font face=&quot;宋体&quot;&gt;构建&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;20&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;通道特征张量，标准化处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="130.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-22" value="&lt;font face=&quot;宋体&quot;&gt;10种变异信号&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-22" value="&lt;font face=&quot;Times New Roman&quot;&gt;10&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;种变异信号&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="300" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-25" value="&lt;font face=&quot;宋体&quot;&gt;正负链统计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
