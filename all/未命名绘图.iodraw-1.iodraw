@@ -25,16 +25,16 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="77.5" width="30" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于多通道图像编码技术的结构变异检测方法研究&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于多通道图像编码技术的结构变异检测方法研究&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于长读长测序数据的结构变异检测深度学习框架&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-10" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基于长读长测序数据的结构变异检测深度学习框架&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="251" width="340" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-13" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;数值特征构建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-25" value="&lt;font face=&quot;宋体&quot;&gt;正负链统计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="320" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="397" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;时序与注意力联合建模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-66" value="&lt;font face=&quot;宋体&quot;&gt;局部空间特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="417" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-67" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-67" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="160" y="545" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-68" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;精确断点聚类与质控&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
