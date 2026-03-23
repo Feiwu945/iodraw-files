@@ -85,8 +85,8 @@
             <mxPoint x="273" y="433.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-45" value="提取不同尺度的局部特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="460" width="150" height="30" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-45" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;长距离时序依赖建模&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-58" value="提取不同尺度的局部特征" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="429" width="150" height="30" as="geometry" />
+          <mxGeometry x="300" y="419" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
