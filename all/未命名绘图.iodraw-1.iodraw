@@ -71,7 +71,7 @@
           <mxGeometry x="250" y="396" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="426" width="120" height="24" as="geometry" />
+          <mxGeometry x="170" y="420" width="119" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
