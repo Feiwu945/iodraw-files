@@ -130,8 +130,8 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-87" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="624" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-88" value="同读段事件合并" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="179" y="652.5" width="101" height="15" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-88" value="基于长度的重新分割" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="179" y="652.5" width="111" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-89" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="650" width="20" height="20" as="geometry" />
