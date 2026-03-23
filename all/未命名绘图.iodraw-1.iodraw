@@ -224,7 +224,7 @@
           <mxGeometry x="630" y="545" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-128" value="特征金字塔网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534.5" y="648" width="110" height="19.5" as="geometry" />
+          <mxGeometry x="534.5" y="645.25" width="110" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-129" value="多尺度上下文捕获" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="592.25" width="140" height="14" as="geometry" />
@@ -236,7 +236,7 @@
           <mxGeometry x="690" y="620.25" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="650.75" width="140" height="14" as="geometry" />
+          <mxGeometry x="690" y="650.75" width="140" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
