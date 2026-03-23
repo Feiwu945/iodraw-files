@@ -268,7 +268,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-139" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;高置信度变异结果&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="350" y="710" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-140" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;实验评估&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-140" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;实验评估&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="685" y="710" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
