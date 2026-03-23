@@ -227,10 +227,10 @@
           <mxGeometry x="534.5" y="648" width="110" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-129" value="视觉网络模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="564.5" width="140" height="14" as="geometry" />
+          <mxGeometry x="690" y="592.25" width="140" height="14" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-130" value="视觉网络模型构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="574.5" width="140" height="14" as="geometry" />
+          <mxGeometry x="690" y="564.5" width="140" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
