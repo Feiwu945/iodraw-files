@@ -211,16 +211,16 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-123" value="&lt;font face=&quot;宋体&quot;&gt;卷积主干网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="564" width="110" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;CBAM &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;CBAM &lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="621.5" width="110" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="&lt;font face=&quot;宋体&quot;&gt;空洞空间金字塔池化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-126" value="&lt;font face=&quot;宋体&quot;&gt;空洞空间金字塔池化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="593" width="110" height="18.5" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-127" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;视觉网络模型构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="545" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-128" value="&lt;font face=&quot;宋体&quot;&gt;特征金字塔网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-128" value="&lt;font face=&quot;宋体&quot;&gt;特征金字塔网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="534.5" y="650.25" width="110" height="19.5" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-129" value="&lt;font face=&quot;宋体&quot;&gt;多尺度上下文捕获&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
