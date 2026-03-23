@@ -131,7 +131,7 @@
           <mxGeometry x="160" y="620" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-88" value="快速自适应扫描" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="189" y="612.5" width="101" height="15" as="geometry" />
+          <mxGeometry x="179" y="622.5" width="101" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
