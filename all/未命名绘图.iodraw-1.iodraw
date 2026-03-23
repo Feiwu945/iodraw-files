@@ -82,12 +82,6 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-35" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="429" width="51" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-40" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="409" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-41" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="419" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
