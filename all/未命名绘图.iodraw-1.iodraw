@@ -235,7 +235,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="620.25" width="140" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;关键特征自适应聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-133" value="跨层级特征融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="648" width="140" height="14" as="geometry" />
         </mxCell>
       </root>
