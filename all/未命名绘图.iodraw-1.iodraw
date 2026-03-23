@@ -193,6 +193,9 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-113" value="解析与堆叠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="366" width="120" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-117" value="颜色映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="403" width="120" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
