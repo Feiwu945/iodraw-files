@@ -185,7 +185,7 @@
           <mxGeometry x="820" y="413" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-110" value="保留候选变异区域进行分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="466" width="120" height="24" as="geometry" />
+          <mxGeometry x="540" y="466" width="150" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
