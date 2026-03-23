@@ -79,13 +79,13 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="166" y="417" width="121" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="&lt;font face=&quot;宋体&quot;&gt;双向长短期记忆网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="&lt;font face=&quot;宋体&quot;&gt;双向长短期记忆网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry y="40" width="121" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="&lt;font face=&quot;宋体&quot;&gt;多头自注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="&lt;font face=&quot;宋体&quot;&gt;多头自注意力机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=default;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry y="80" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
