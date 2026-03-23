@@ -70,8 +70,8 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="时序与注意力联合建模" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="396" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="426" width="120" height="60" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="残差卷积网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="426" width="120" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
