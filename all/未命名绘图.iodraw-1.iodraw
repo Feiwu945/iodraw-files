@@ -98,7 +98,7 @@
           <mxGeometry x="330" y="419" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="456" width="121" height="30" as="geometry" />
+          <mxGeometry x="169" y="460" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-60" value="双向长短期记忆网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="490" width="121" height="30" as="geometry" />
