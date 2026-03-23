@@ -82,14 +82,11 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-35" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="269" y="429" width="51" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DhRRv6h3kgcs0FJYBWs-37" target="8DhRRv6h3kgcs0FJYBWs-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-40" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-37" value="提取不同尺度的局部特征" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="10" y="426" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-38" value="提取不同尺度的局部特征" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="10" y="530" width="120" height="24" as="geometry" />
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-41" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="419" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
