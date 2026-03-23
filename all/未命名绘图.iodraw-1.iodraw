@@ -109,6 +109,9 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-65" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;自适应关键信息聚焦&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="497" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-66" value="局部空间特征提取" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="417" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
