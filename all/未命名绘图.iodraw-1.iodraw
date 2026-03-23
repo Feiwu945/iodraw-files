@@ -140,7 +140,7 @@
           <mxGeometry x="179" y="626.5" width="101" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-91" value="五维覆盖度评估" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="595" width="110" height="30" as="geometry" />
+          <mxGeometry x="550" y="590" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
