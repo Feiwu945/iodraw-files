@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="kyXSPYzRzhMcwvT7UHto">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="166" y="417" width="121" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
           <mxGeometry width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-59" value="&lt;font face=&quot;宋体&quot;&gt;双向长短期记忆网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
