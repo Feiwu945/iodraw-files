@@ -34,7 +34,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="251" width="340" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-12" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="320" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-13" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;数值特征构建&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-25" value="&lt;font face=&quot;宋体&quot;&gt;正负链统计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="320" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-29" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#fff2cc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="397" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-30" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;时序与注意力联合建模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
