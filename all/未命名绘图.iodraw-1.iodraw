@@ -76,7 +76,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-45" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;捕获长距离依赖关系&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="457" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-62" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="166" y="417" width="121" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-31" value="&lt;font face=&quot;宋体&quot;&gt;残差卷积网络&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8DhRRv6h3kgcs0FJYBWs-62">
@@ -106,7 +106,7 @@
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-66" value="&lt;font face=&quot;宋体&quot;&gt;局部空间特征提取&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="417" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DhRRv6h3kgcs0FJYBWs-67" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="8DhRRv6h3kgcs0FJYBWs-67" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="160" y="545" width="320" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8DhRRv6h3kgcs0FJYBWs-68" value="&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;精确断点聚类与质控&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
