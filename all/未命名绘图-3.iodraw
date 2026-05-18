@@ -218,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-13" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;易位 (BND/TRA)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="450" width="110" height="30" as="geometry" />
+          <mxGeometry x="63" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ref&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="490" width="60" height="20" as="geometry" />
