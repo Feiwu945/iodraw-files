@@ -190,10 +190,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3iSlG8V9_s8RUall5-3v-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3iSlG8V9_s8RUall5-3v-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="130" y="540" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3iSlG8V9_s8RUall5-3v-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3iSlG8V9_s8RUall5-3v-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="180" y="490" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
@@ -202,7 +202,7 @@
         <mxCell id="3iSlG8V9_s8RUall5-3v-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="130" y="490" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3iSlG8V9_s8RUall5-3v-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="3iSlG8V9_s8RUall5-3v-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" parent="1" vertex="1">
           <mxGeometry x="360" y="540" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3iSlG8V9_s8RUall5-3v-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3iSlG8V9_s8RUall5-3v-9" target="3iSlG8V9_s8RUall5-3v-6" edge="1">
