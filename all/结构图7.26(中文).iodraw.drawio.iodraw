@@ -1202,7 +1202,7 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-32" value="ResBlock" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-487" y="-1690" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-33" value="ResBlock" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-33" value="多头注意力" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-1590" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-35" value="BiLSTM" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
