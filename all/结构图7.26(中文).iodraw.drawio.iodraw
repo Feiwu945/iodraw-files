@@ -1173,10 +1173,10 @@
           <mxGeometry x="-329.11" y="-2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-10" value="双链&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap;&quot;&gt; · &lt;/span&gt;10组&lt;div&gt;特征信号&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-918.45" y="-1980" width="111" height="30" as="geometry" />
+          <mxGeometry x="-852.1700000000001" y="-1960" width="111" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-12" value="20通道&lt;div&gt;特征矩阵&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-791.01" y="-1980" width="111" height="30" as="geometry" />
+          <mxGeometry x="-724.73" y="-1960" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
