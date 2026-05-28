@@ -1175,8 +1175,8 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-715" y="-2032" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-10" value="双链10组特征信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-891" y="-1870" width="60" height="30" as="geometry" />
+        <mxCell id="JKsofOtlChOoJlO1zfQN-10" value="双链&lt;span style=&quot;color: rgb(255, 255, 255); font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap;&quot;&gt; · &lt;/span&gt;10组特征信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-891" y="-1870" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
