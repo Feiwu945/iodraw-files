@@ -85,8 +85,8 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="60" y="-1720" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="165" y="-2002" width="50" height="30" as="geometry" />
+        <mxCell id="JKsofOtlChOoJlO1zfQN-55" value="快速自适应扫描&lt;div&gt;同读段内事件合并&lt;/div&gt;&lt;div&gt;基于长度的重新拆分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="-2017" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
