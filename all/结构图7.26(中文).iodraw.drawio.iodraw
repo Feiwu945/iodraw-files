@@ -1158,7 +1158,7 @@
           <mxGeometry x="-970" y="-2180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-807.45" y="-2190" width="177.45" height="110" as="geometry" />
+          <mxGeometry x="-632.6500000000001" y="-1940" width="177.45" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-4" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;混合神经网络&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-605.01" y="-2200" width="120" height="60" as="geometry" />
@@ -1173,10 +1173,10 @@
           <mxGeometry x="-329.11" y="-2130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-10" value="双链&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; text-align: start; white-space: nowrap;&quot;&gt; · &lt;/span&gt;10组&lt;div&gt;特征信号&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-852.1700000000001" y="-1960" width="111" height="30" as="geometry" />
+          <mxGeometry x="-852.17" y="-1960" width="62.17" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-12" value="20通道&lt;div&gt;特征矩阵&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-724.73" y="-1960" width="111" height="30" as="geometry" />
+          <mxGeometry x="-766.85" y="-1960" width="56.27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
