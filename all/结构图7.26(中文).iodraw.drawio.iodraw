@@ -73,7 +73,7 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-109.99999999999994" y="-1750" width="377.45" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-43" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;混合神经网络&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-43" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;聚类 + 质控&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5.160000000000082" y="-1750" width="147.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-44" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;ResBlock&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
