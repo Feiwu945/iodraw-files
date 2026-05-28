@@ -61,10 +61,10 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-37" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;局部&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-1710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-38" value="长程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-38" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;长程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-1650" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-39" value="聚焦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-39" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;聚焦&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-1590" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
