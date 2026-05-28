@@ -13,7 +13,7 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-18" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-919.1" y="-1600" width="141.19" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;BAM输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;BAM&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;输入&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="-1690" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-4" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;混合神经网络&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
