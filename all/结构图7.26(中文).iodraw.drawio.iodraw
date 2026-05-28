@@ -80,7 +80,7 @@
           <mxGeometry x="-90" y="-1698" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-1728" width="50" height="100" as="geometry" />
+          <mxGeometry x="30" y="-1690" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
