@@ -1199,7 +1199,7 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-30" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;混合神经网络&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-418.8999999999999" y="-1750" width="147.12" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-32" value="ResBlock" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-487" y="-1690" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
