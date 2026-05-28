@@ -13,7 +13,7 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-18" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="-919.1" y="-1600" width="141.19" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;BAM&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;b&gt;输入&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JKsofOtlChOoJlO1zfQN-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;BAM&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;b&gt;输入&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="-1690" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-4" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;混合神经网络&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-5" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;聚类+质控&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="298.03" y="-2220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JKsofOtlChOoJlO1zfQN-6" value="基因型判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-7" value="&lt;span style=&quot;font-family: &amp;quot;Anthropic Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; text-align: start; white-space: nowrap;&quot;&gt;高置信度 VCF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435.9" y="-2150" width="120" height="60" as="geometry" />
@@ -102,6 +99,9 @@
         </mxCell>
         <mxCell id="JKsofOtlChOoJlO1zfQN-61" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;五位覆盖度评估&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;动态阈值统计学验证&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;综合质量加权&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="45" y="-1630" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JKsofOtlChOoJlO1zfQN-62" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;BAM&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 21px;&quot;&gt;&lt;b&gt;输入&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-1825" width="150" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
