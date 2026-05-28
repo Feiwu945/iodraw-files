@@ -1178,6 +1178,9 @@
         <mxCell id="JKsofOtlChOoJlO1zfQN-12" value="20通道&lt;div&gt;特征矩阵&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-534.0600000000001" y="-1580" width="56.27" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JKsofOtlChOoJlO1zfQN-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-787" y="-1890" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
